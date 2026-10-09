@@ -1,0 +1,251 @@
+Code,index,platform,zs_justice_dimension,zs_kano_category,zs_service_dimension,zs_sentiment_score
+C001,3645,TripAdvisor,General/Other,General/Other,General/Other,1
+C002,3363,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,General/Other,3
+C003,3121,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C004,2515,Trustpilot,General/Other,General/Other,General/Other,1
+C005,1467,Trustpilot,General/Other,Performance Quality,Check-in and Boarding Experience,1
+C006,822,TripAdvisor,General/Other,Performance Quality,Check-in and Boarding Experience,1
+C007,2721,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C008,1929,Trustpilot,Distributive Justice - compensation and refund,General/Other,General/Other,1
+C009,710,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,Staff and Cabin Crew,3
+C010,2302,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C011,2869,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C012,2423,Trustpilot,General/Other,General/Other,General/Other,1
+C013,632,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,3
+C014,193,TripAdvisor,General/Other,General/Other,General/Other,1
+C015,1361,Trustpilot,General/Other,General/Other,Staff and Cabin Crew,2
+C016,1978,Trustpilot,General/Other,General/Other,General/Other,1
+C017,783,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,Staff and Cabin Crew,4
+C018,4426,Facebook Group,General/Other,General/Other,Flight Delays and Cancellations,1
+C019,3966,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C020,1152,Trustpilot,General/Other,General/Other,General/Other,1
+C021,4302,Facebook Group,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C022,4159,Facebook Group,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C023,2433,Trustpilot,General/Other,General/Other,Luggage and Baggage,1
+C024,4039,TripAdvisor,General/Other,Performance Quality,In-flight Food and Meals,2
+C025,2164,Trustpilot,General/Other,General/Other,Refunds and Compensation,1
+C026,4031,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,5
+C027,1904,Trustpilot,General/Other,Performance Quality,Staff and Cabin Crew,1
+C028,1616,Trustpilot,General/Other,General/Other,General/Other,1
+C029,574,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,Check-in and Boarding Experience,1
+C030,1900,Trustpilot,General/Other,General/Other,General/Other,1
+C031,2974,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,Flight Delays and Cancellations,1
+C032,3860,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,Flight Delays and Cancellations,1
+C033,3856,TripAdvisor,General/Other,Performance Quality,Staff and Cabin Crew,1
+C034,75,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C035,485,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,5
+C036,4320,Facebook Group,General/Other,General/Other,Check-in and Boarding Experience,1
+C037,788,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,2
+C038,3711,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,General/Other,1
+C039,1567,Trustpilot,General/Other,General/Other,General/Other,1
+C040,1631,Trustpilot,General/Other,General/Other,Flight Delays and Cancellations,1
+C041,185,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C042,706,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C043,2787,TripAdvisor,General/Other,Performance Quality,Seat Comfort and Legroom,1
+C044,708,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C045,2629,TripAdvisor,General/Other,General/Other,General/Other,1
+C046,1168,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C047,1230,Trustpilot,Interactional Justice - staff behavior and politeness,Attractive Quality,Staff and Cabin Crew,5
+C048,111,TripAdvisor,General/Other,General/Other,General/Other,1
+C049,1034,TripAdvisor,Interactional Justice - staff behavior and politeness,Performance Quality,Staff and Cabin Crew,1
+C050,3620,TripAdvisor,Distributive Justice - compensation and refund,General/Other,General/Other,1
+C051,1076,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C052,546,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,Check-in and Boarding Experience,2
+C053,618,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,Staff and Cabin Crew,3
+C054,1982,Trustpilot,General/Other,General/Other,General/Other,1
+C055,933,TripAdvisor,General/Other,General/Other,General/Other,1
+C056,182,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C057,911,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,Staff and Cabin Crew,4
+C058,585,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C059,827,TripAdvisor,General/Other,General/Other,General/Other,1
+C060,3678,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,Luggage and Baggage,1
+C061,755,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C062,378,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C063,1243,Trustpilot,General/Other,Performance Quality,General/Other,1
+C064,1480,Trustpilot,General/Other,General/Other,General/Other,1
+C065,1310,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,Check-in and Boarding Experience,1
+C066,3765,TripAdvisor,General/Other,General/Other,General/Other,1
+C067,1091,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C068,2053,Trustpilot,General/Other,Performance Quality,General/Other,1
+C069,3897,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C070,243,TripAdvisor,General/Other,Performance Quality,Luggage and Baggage,1
+C071,2419,Trustpilot,General/Other,General/Other,General/Other,2
+C072,3934,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C073,638,TripAdvisor,General/Other,General/Other,Luggage and Baggage,1
+C074,3065,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,4
+C075,420,TripAdvisor,General/Other,General/Other,Luggage and Baggage,1
+C076,4206,Facebook Group,Procedural Justice - process delay and inefficiency,General/Other,Luggage and Baggage,1
+C077,2194,Trustpilot,Procedural Justice - process delay and inefficiency,Performance Quality,General/Other,1
+C078,998,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,Luggage and Baggage,4
+C079,2961,TripAdvisor,General/Other,General/Other,Luggage and Baggage,1
+C080,2262,Trustpilot,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C081,1603,Trustpilot,General/Other,Performance Quality,General/Other,1
+C082,1527,Trustpilot,General/Other,General/Other,General/Other,1
+C083,393,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C084,3478,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,Check-in and Boarding Experience,1
+C085,1484,Trustpilot,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C086,3735,TripAdvisor,General/Other,General/Other,General/Other,1
+C087,2760,TripAdvisor,General/Other,General/Other,General/Other,4
+C088,4318,Facebook Group,Procedural Justice - process delay and inefficiency,General/Other,Luggage and Baggage,1
+C089,2782,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,Check-in and Boarding Experience,1
+C090,4287,Facebook Group,General/Other,Performance Quality,Check-in and Boarding Experience,1
+C091,2208,Trustpilot,General/Other,General/Other,General/Other,1
+C092,3772,TripAdvisor,General/Other,General/Other,Luggage and Baggage,3
+C093,2525,Trustpilot,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,5
+C094,105,TripAdvisor,Distributive Justice - compensation and refund,General/Other,General/Other,2
+C095,3482,TripAdvisor,General/Other,General/Other,General/Other,1
+C096,1127,TripAdvisor,General/Other,Attractive Quality,Refunds and Compensation,1
+C097,4425,Facebook Group,General/Other,General/Other,General/Other,1
+C098,2626,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C099,3369,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C100,3880,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,Staff and Cabin Crew,2
+C101,2831,TripAdvisor,General/Other,Performance Quality,Luggage and Baggage,1
+C102,1489,Trustpilot,General/Other,General/Other,General/Other,1
+C103,1549,Trustpilot,Interactional Justice - staff behavior and politeness,General/Other,General/Other,3
+C104,1197,Trustpilot,Distributive Justice - compensation and refund,General/Other,Flight Delays and Cancellations,1
+C105,2181,Trustpilot,Procedural Justice - process delay and inefficiency,Performance Quality,Check-in and Boarding Experience,1
+C106,3673,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C107,1343,Trustpilot,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C108,799,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,Refunds and Compensation,1
+C109,3349,TripAdvisor,General/Other,General/Other,Luggage and Baggage,1
+C110,478,TripAdvisor,General/Other,Attractive Quality,General/Other,1
+C111,1955,Trustpilot,General/Other,Performance Quality,Staff and Cabin Crew,1
+C112,3775,TripAdvisor,General/Other,General/Other,Luggage and Baggage,1
+C113,1927,Trustpilot,General/Other,General/Other,General/Other,1
+C114,3738,TripAdvisor,Procedural Justice - process delay and inefficiency,Attractive Quality,General/Other,1
+C115,518,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,5
+C116,1918,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,Flight Delays and Cancellations,1
+C117,2576,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,2
+C118,438,TripAdvisor,General/Other,General/Other,Luggage and Baggage,1
+C119,1619,Trustpilot,General/Other,General/Other,Flight Delays and Cancellations,1
+C120,2533,Trustpilot,General/Other,Performance Quality,General/Other,1
+C121,2802,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C122,821,TripAdvisor,General/Other,General/Other,General/Other,1
+C123,2014,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C124,3357,TripAdvisor,General/Other,General/Other,General/Other,1
+C125,1235,Trustpilot,General/Other,General/Other,General/Other,1
+C126,4301,Facebook Group,Procedural Justice - process delay and inefficiency,General/Other,Flight Delays and Cancellations,1
+C127,246,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,General/Other,1
+C128,3255,TripAdvisor,General/Other,General/Other,General/Other,1
+C129,995,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,General/Other,3
+C130,3674,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C131,1485,Trustpilot,General/Other,General/Other,General/Other,3
+C132,825,TripAdvisor,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C133,1336,Trustpilot,General/Other,General/Other,General/Other,1
+C134,1508,Trustpilot,General/Other,Performance Quality,Luggage and Baggage,1
+C135,3904,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,General/Other,4
+C136,263,TripAdvisor,Distributive Justice - compensation and refund,Performance Quality,General/Other,1
+C137,2967,TripAdvisor,General/Other,Performance Quality,Luggage and Baggage,1
+C138,528,TripAdvisor,General/Other,General/Other,General/Other,1
+C139,3640,TripAdvisor,General/Other,General/Other,General/Other,1
+C140,1856,Trustpilot,General/Other,General/Other,Flight Delays and Cancellations,1
+C141,3275,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C142,2030,Trustpilot,General/Other,General/Other,Check-in and Boarding Experience,1
+C143,3575,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C144,847,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C145,2771,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,Luggage and Baggage,1
+C146,4124,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,In-flight Food and Meals,5
+C147,1535,Trustpilot,General/Other,General/Other,General/Other,1
+C148,541,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C149,711,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C150,1544,Trustpilot,General/Other,General/Other,General/Other,1
+C151,159,TripAdvisor,General/Other,Attractive Quality,Seat Comfort and Legroom,4
+C152,2151,Trustpilot,Interactional Justice - staff behavior and politeness,Attractive Quality,Staff and Cabin Crew,5
+C153,3503,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C154,2934,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,Flight Delays and Cancellations,1
+C155,715,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C156,2343,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C157,3325,TripAdvisor,General/Other,Performance Quality,Check-in and Boarding Experience,1
+C158,1241,Trustpilot,General/Other,General/Other,Flight Delays and Cancellations,1
+C159,4176,Facebook Group,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,1
+C160,819,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C161,448,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C162,1183,Trustpilot,General/Other,General/Other,Luggage and Baggage,1
+C163,1509,Trustpilot,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,2
+C164,2449,Trustpilot,General/Other,General/Other,General/Other,1
+C165,688,TripAdvisor,Procedural Justice - process delay and inefficiency,General/Other,Refunds and Compensation,1
+C166,4080,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,5
+C167,3019,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C168,1792,Trustpilot,General/Other,Performance Quality,General/Other,1
+C169,4298,Facebook Group,General/Other,Attractive Quality,General/Other,1
+C170,3443,TripAdvisor,Distributive Justice - compensation and refund,General/Other,General/Other,1
+C171,3122,TripAdvisor,General/Other,General/Other,General/Other,1
+C172,1719,Trustpilot,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C173,389,TripAdvisor,Distributive Justice - compensation and refund,Performance Quality,General/Other,1
+C174,3288,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C175,1583,Trustpilot,General/Other,General/Other,General/Other,1
+C176,4060,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C177,4005,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C178,31,TripAdvisor,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C179,3956,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C180,2372,Trustpilot,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,4
+C181,390,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C182,2874,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C183,4384,Facebook Group,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C184,999,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,General/Other,1
+C185,107,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,General/Other,1
+C186,4391,Facebook Group,General/Other,General/Other,Refunds and Compensation,1
+C187,1253,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,In-flight Food and Meals,1
+C188,4134,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C189,67,TripAdvisor,General/Other,Must-be Quality,Luggage and Baggage,1
+C190,901,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C191,2776,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C192,3853,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C193,1545,Trustpilot,General/Other,Must-be Quality,General/Other,1
+C194,2214,Trustpilot,General/Other,Performance Quality,General/Other,1
+C195,4338,Facebook Group,General/Other,General/Other,Flight Delays and Cancellations,1
+C196,2342,Trustpilot,General/Other,Performance Quality,General/Other,1
+C197,940,TripAdvisor,General/Other,General/Other,General/Other,1
+C198,2503,Trustpilot,Interactional Justice - staff behavior and politeness,Attractive Quality,In-flight Food and Meals,4
+C199,2010,Trustpilot,General/Other,General/Other,General/Other,1
+C200,2006,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C201,2416,Trustpilot,Distributive Justice - compensation and refund,General/Other,General/Other,1
+C202,4342,Facebook Group,Procedural Justice - process delay and inefficiency,General/Other,Flight Delays and Cancellations,2
+C203,2966,TripAdvisor,General/Other,Performance Quality,Check-in and Boarding Experience,1
+C204,2827,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C205,816,TripAdvisor,General/Other,Performance Quality,Refunds and Compensation,1
+C206,267,TripAdvisor,General/Other,Attractive Quality,General/Other,3
+C207,2255,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,General/Other,1
+C208,3661,TripAdvisor,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C209,3373,TripAdvisor,General/Other,General/Other,General/Other,1
+C210,3770,TripAdvisor,General/Other,Performance Quality,Seat Comfort and Legroom,1
+C211,1236,Trustpilot,Distributive Justice - compensation and refund,General/Other,Refunds and Compensation,1
+C212,1285,Trustpilot,General/Other,General/Other,General/Other,1
+C213,1043,TripAdvisor,General/Other,Attractive Quality,General/Other,1
+C214,3000,TripAdvisor,General/Other,General/Other,In-flight Food and Meals,1
+C215,960,TripAdvisor,Procedural Justice - process delay and inefficiency,Must-be Quality,Flight Delays and Cancellations,1
+C216,4174,Facebook Group,General/Other,General/Other,Luggage and Baggage,1
+C217,1598,Trustpilot,Distributive Justice - compensation and refund,Performance Quality,General/Other,1
+C218,2791,TripAdvisor,General/Other,General/Other,Staff and Cabin Crew,1
+C219,2258,Trustpilot,General/Other,General/Other,General/Other,1
+C220,454,TripAdvisor,General/Other,Performance Quality,Seat Comfort and Legroom,1
+C221,3403,TripAdvisor,General/Other,General/Other,Check-in and Boarding Experience,1
+C222,3544,TripAdvisor,General/Other,Performance Quality,Luggage and Baggage,1
+C223,3155,TripAdvisor,General/Other,General/Other,General/Other,1
+C224,4424,Facebook Group,General/Other,General/Other,General/Other,1
+C225,4288,Facebook Group,General/Other,General/Other,General/Other,1
+C226,1271,Trustpilot,General/Other,General/Other,Flight Delays and Cancellations,1
+C227,4019,TripAdvisor,General/Other,Performance Quality,Luggage and Baggage,1
+C228,3637,TripAdvisor,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C229,247,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C230,2923,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C231,42,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C232,4041,TripAdvisor,Interactional Justice - staff behavior and politeness,Attractive Quality,General/Other,4
+C233,447,TripAdvisor,General/Other,General/Other,General/Other,1
+C234,630,TripAdvisor,Interactional Justice - staff behavior and politeness,Performance Quality,General/Other,1
+C235,2440,Trustpilot,General/Other,General/Other,Luggage and Baggage,1
+C236,2339,Trustpilot,General/Other,General/Other,General/Other,1
+C237,397,TripAdvisor,General/Other,Performance Quality,Flight Delays and Cancellations,1
+C238,364,TripAdvisor,General/Other,General/Other,Flight Delays and Cancellations,1
+C239,3845,TripAdvisor,Interactional Justice - staff behavior and politeness,Performance Quality,Check-in and Boarding Experience,1
+C240,3642,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,Flight Delays and Cancellations,1
+C241,3577,TripAdvisor,General/Other,General/Other,General/Other,1
+C242,1140,Trustpilot,Procedural Justice - process delay and inefficiency,General/Other,Flight Delays and Cancellations,1
+C243,4076,TripAdvisor,General/Other,Performance Quality,General/Other,1
+C244,3303,TripAdvisor,General/Other,Performance Quality,General/Other,2
+C245,1701,Trustpilot,General/Other,General/Other,General/Other,1
+C246,3317,TripAdvisor,Interactional Justice - staff behavior and politeness,General/Other,General/Other,3
+C247,1,TripAdvisor,Procedural Justice - process delay and inefficiency,Performance Quality,Seat Comfort and Legroom,2
+C248,2916,TripAdvisor,General/Other,General/Other,General/Other,1
+C249,2519,Trustpilot,General/Other,General/Other,Flight Delays and Cancellations,1
+C250,3401,TripAdvisor,General/Other,Performance Quality,Luggage and Baggage,1

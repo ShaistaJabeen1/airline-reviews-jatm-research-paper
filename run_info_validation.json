@@ -1,0 +1,18 @@
+{
+ "stage": "validation",
+ "n": 250,
+ "model": "Qwen/Qwen2.5-7B-Instruct",
+ "quantization": "4-bit NF4 (bitsandbytes), fp16 compute",
+ "decoding": "greedy (do_sample=False)",
+ "max_new_tokens": 80,
+ "max_chars": 4000,
+ "batch": 8,
+ "prompt_sha256_12": "0669816d907e",
+ "python": "3.13.15",
+ "date_utc": "2026-10-09 05:59:47",
+ "torch": "2.11.0+cu130",
+ "transformers": "5.19.0",
+ "bitsandbytes": "0.50.2",
+ "gpu": "Tesla T4",
+ "model_revision": "a09a35458c702b33eeacc393d103063234e8bc28"
+}

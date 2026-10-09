@@ -1,0 +1,501 @@
+Code,coder,index,Sentiment (1-5),Justice category,Kano-informed category,Service dimension
+C001,A,3645,3 - Neutral/mixed,Procedural Justice,Must-be,General/Other
+C002,A,3363,2 - Negative,Interactional Justice,Must-be,Luggage and Baggage
+C003,A,3121,2 - Negative,General/Other,Performance,Seat Comfort and Legroom
+C004,A,2515,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C005,A,1467,1 - Very negative,Interactional Justice,Performance,Check-in and Boarding Experience
+C006,A,822,1 - Very negative,Interactional Justice,Performance,Check-in and Boarding Experience
+C007,A,2721,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C008,A,1929,1 - Very negative,Distributive Justice,Performance,Refunds and Compensation
+C009,A,710,2 - Negative,Interactional Justice,Performance,Staff and Cabin Crew
+C010,A,2302,2 - Negative,Procedural Justice,Performance,General/Other
+C011,A,2869,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C012,A,2423,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C013,A,632,5 - Very positive,Interactional Justice,Attractive,Staff and Cabin Crew
+C014,A,193,2 - Negative,Procedural Justice,Must-be,Booking and Pricing Transparency
+C015,A,1361,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C016,A,1978,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C017,A,783,5 - Very positive,Interactional Justice,Attractive,General/Other
+C018,A,4426,2 - Negative,Interactional Justice,Must-be,General/Other
+C019,A,3966,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C020,A,1152,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C021,A,4302,1 - Very negative,Procedural Justice,Must-be,Booking and Pricing Transparency
+C022,A,4159,1 - Very negative,Procedural Justice,Must-be,Seat Comfort and Legroom
+C023,A,2433,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C024,A,4039,2 - Negative,Distributive Justice,Must-be,In-flight Food and Meals
+C025,A,2164,1 - Very negative,Procedural Justice,Must-be,General/Other
+C026,A,4031,5 - Very positive,Interactional Justice,Attractive,Staff and Cabin Crew
+C027,A,1904,1 - Very negative,Interactional Justice,Must-be,Seat Comfort and Legroom
+C028,A,1616,1 - Very negative,Distributive Justice,Must-be,General/Other
+C029,A,574,2 - Negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C030,A,1900,3 - Neutral/mixed,Distributive Justice,Must-be,Booking and Pricing Transparency
+C031,A,2974,2 - Negative,Procedural Justice,Must-be,Staff and Cabin Crew
+C032,A,3860,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C033,A,3856,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C034,A,75,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C035,A,485,5 - Very positive,Procedural Justice,Attractive,Luggage and Baggage
+C036,A,4320,3 - Neutral/mixed,Procedural Justice,Must-be,General/Other
+C037,A,788,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C038,A,3711,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C039,A,1567,1 - Very negative,Procedural Justice,Must-be,Staff and Cabin Crew
+C040,A,1631,1 - Very negative,Distributive Justice,Must-be,General/Other
+C041,A,185,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C042,A,706,2 - Negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C043,A,2787,2 - Negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C044,A,708,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C045,A,2629,1 - Very negative,Distributive Justice,Must-be,Seat Comfort and Legroom
+C046,A,1168,1 - Very negative,Distributive Justice,Must-be,General/Other
+C047,A,1230,5 - Very positive,Interactional Justice,Attractive,Staff and Cabin Crew
+C048,A,111,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C049,A,1034,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C050,A,3620,1 - Very negative,Procedural Justice,Must-be,Seat Comfort and Legroom
+C051,A,1076,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C052,A,546,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C053,A,618,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C054,A,1982,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C055,A,933,2 - Negative,Procedural Justice,Must-be,General/Other
+C056,A,182,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C057,A,911,2 - Negative,Distributive Justice,Performance,
+C058,A,585,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C059,A,827,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C060,A,3678,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C061,A,755,2 - Negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C062,A,378,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C063,A,1243,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C064,A,1480,2 - Negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C065,A,1310,1 - Very negative,Procedural Justice,Must-be,Seat Comfort and Legroom
+C066,A,3765,2 - Negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C067,A,1091,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C068,A,2053,2 - Negative,Procedural Justice,Must-be,General/Other
+C069,A,3897,2 - Negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C070,A,243,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C071,A,2419,2 - Negative,Distributive Justice,Performance,Flight Delays and Cancellations
+C072,A,3934,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C073,A,638,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C074,A,3065,2 - Negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C075,A,420,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C076,A,4206,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C077,A,2194,2 - Negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C078,A,998,4 - Positive,Interactional Justice,Attractive,Luggage and Baggage
+C079,A,2961,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C080,A,2262,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C081,A,1603,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C082,A,1527,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C083,A,393,1 - Very negative,Interactional Justice,Must-be,Luggage and Baggage
+C084,A,3478,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C085,A,1484,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C086,A,3735,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C087,A,2760,4 - Positive,General/Other,Performance,General/Other
+C088,A,4318,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C089,A,2782,1 - Very negative,Procedural Justice,Must-be,Seat Comfort and Legroom
+C090,A,4287,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C091,A,2208,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C092,A,3772,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C093,A,2525,5 - Very positive,Interactional Justice,Performance,General/Other
+C094,A,105,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C095,A,3482,2 - Negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C096,A,1127,5 - Very positive,Distributive Justice,Performance,Refunds and Compensation
+C097,A,4425,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C098,A,2626,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C099,A,3369,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C100,A,3880,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C101,A,2831,1 - Very negative,Interactional Justice,Must-be,Luggage and Baggage
+C102,A,1489,2 - Negative,Procedural Justice,Must-be,General/Other
+C103,A,1549,4 - Positive,General/Other,Performance,General/Other
+C104,A,1197,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C105,A,2181,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C106,A,3673,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C107,A,1343,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C108,A,799,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C109,A,3349,1 - Very negative,Interactional Justice,Must-be,Luggage and Baggage
+C110,A,478,2 - Negative,Procedural Justice,Must-be,Luggage and Baggage
+C111,A,1955,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C112,A,3775,2 - Negative,Procedural Justice,Must-be,Luggage and Baggage
+C113,A,1927,2 - Negative,Distributive Justice,Performance,Refunds and Compensation
+C114,A,3738,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C115,A,518,4 - Positive,General/Other,Performance,Luggage and Baggage
+C116,A,1918,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C117,A,2576,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C118,A,438,1 - Very negative,General/Other,Must-be,Luggage and Baggage
+C119,A,1619,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C120,A,2533,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C121,A,2802,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C122,A,821,1 - Very negative,Distributive Justice,Performance,General/Other
+C123,A,2014,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C124,A,3357,2 - Negative,Distributive Justice,Performance,General/Other
+C125,A,1235,1 - Very negative,Procedural Justice,Performance,General/Other
+C126,A,4301,2 - Negative,,,
+C127,A,246,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C128,A,3255,1 - Very negative,Procedural Justice,Performance,General/Other
+C129,A,995,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C130,A,3674,2 - Negative,Procedural Justice,Performance,General/Other
+C131,A,1485,3 - Neutral/mixed,Procedural Justice,Performance,Flight Delays and Cancellations
+C132,A,825,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C133,A,1336,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C134,A,1508,1 - Very negative,Distributive Justice,Performance,Luggage and Baggage
+C135,A,3904,5 - Very positive,Interactional Justice,Attractive,Staff and Cabin Crew
+C136,A,263,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C137,A,2967,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C138,A,528,2 - Negative,General/Other,Must-be,Flight Delays and Cancellations
+C139,A,3640,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C140,A,1856,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C141,A,3275,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C142,A,2030,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C143,A,3575,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C144,A,847,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C145,A,2771,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C146,A,4124,5 - Very positive,General/Other,Performance,In-flight Food and Meals
+C147,A,1535,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C148,A,541,1 - Very negative,General/Other,Performance,Flight Delays and Cancellations
+C149,A,711,1 - Very negative,Interactional Justice,Must-be,Check-in and Boarding Experience
+C150,A,1544,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C151,A,159,5 - Very positive,General/Other,Performance,Seat Comfort and Legroom
+C152,A,2151,5 - Very positive,Interactional Justice,Attractive,Staff and Cabin Crew
+C153,A,3503,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C154,A,2934,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C155,A,715,1 - Very negative,Procedural Justice,Performance,General/Other
+C156,A,2343,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C157,A,3325,1 - Very negative,Interactional Justice,Performance,Luggage and Baggage
+C158,A,1241,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C159,A,4176,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C160,A,819,1 - Very negative,General/Other,Must-be,Flight Delays and Cancellations
+C161,A,448,2 - Negative,General/Other,Must-be,Flight Delays and Cancellations
+C162,A,1183,1 - Very negative,Distributive Justice,Performance,Luggage and Baggage
+C163,A,1509,2 - Negative,Interactional Justice,Performance,Staff and Cabin Crew
+C164,A,2449,1 - Very negative,Procedural Justice,Performance,Refunds and Compensation
+C165,A,688,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C166,A,4080,4 - Positive,General/Other,Performance,General/Other
+C167,A,3019,1 - Very negative,Distributive Justice,Performance,General/Other
+C168,A,1792,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C169,A,4298,3 - Neutral/mixed,Distributive Justice,Must-be,Refunds and Compensation
+C170,A,3443,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C171,A,3122,2 - Negative,Distributive Justice,Must-be,Staff and Cabin Crew
+C172,A,1719,2 - Negative,General/Other,Performance,Seat Comfort and Legroom
+C173,A,389,1 - Very negative,General/Other,Performance,Seat Comfort and Legroom
+C174,A,3288,1 - Very negative,General/Other,Performance,Staff and Cabin Crew
+C175,A,1583,2 - Negative,Procedural Justice,Must-be,Refunds and Compensation
+C176,A,4060,1 - Very negative,General/Other,General/Other,General/Other
+C177,A,4005,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C178,A,31,1 - Very negative,General/Other,Performance,Seat Comfort and Legroom
+C179,A,3956,1 - Very negative,Procedural Justice,Performance,General/Other
+C180,A,2372,2 - Negative,Interactional Justice,Performance,Staff and Cabin Crew
+C181,A,390,1 - Very negative,Interactional Justice,Performance,Check-in and Boarding Experience
+C182,A,2874,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C183,A,4384,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C184,A,999,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C185,A,107,1 - Very negative,Interactional Justice,Must-be,Check-in and Boarding Experience
+C186,A,4391,2 - Negative,Procedural Justice,Must-be,Refunds and Compensation
+C187,A,1253,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C188,A,4134,1 - Very negative,Distributive Justice,Performance,Refunds and Compensation
+C189,A,67,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C190,A,901,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C191,A,2776,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C192,A,3853,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C193,A,1545,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C194,A,2214,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C195,A,4338,3 - Neutral/mixed,Procedural Justice,Must-be,Flight Delays and Cancellations
+C196,A,2342,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C197,A,940,2 - Negative,Distributive Justice,Must-be,General/Other
+C198,A,2503,4 - Positive,General/Other,Performance,General/Other
+C199,A,2010,3 - Neutral/mixed,Distributive Justice,Performance,Refunds and Compensation
+C200,A,2006,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C201,A,2416,1 - Very negative,Distributive Justice,Must-be,General/Other
+C202,A,4342,2 - Negative,General/Other,Must-be,Check-in and Boarding Experience
+C203,A,2966,2 - Negative,Distributive Justice,Performance,Check-in and Boarding Experience
+C204,A,2827,1 - Very negative,Distributive Justice,Must-be,
+C205,A,816,1 - Very negative,Distributive Justice,Performance,Seat Comfort and Legroom
+C206,A,267,3 - Neutral/mixed,General/Other,Performance,General/Other
+C207,A,2255,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C208,A,3661,2 - Negative,Procedural Justice,Performance,General/Other
+C209,A,3373,1 - Very negative,General/Other,General/Other,General/Other
+C210,A,3770,1 - Very negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C211,A,1236,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C212,A,1285,1 - Very negative,General/Other,Performance,Staff and Cabin Crew
+C213,A,1043,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C214,A,3000,1 - Very negative,Distributive Justice,Must-be,In-flight Food and Meals
+C215,A,960,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C216,A,4174,3 - Neutral/mixed,Distributive Justice,Must-be,Luggage and Baggage
+C217,A,1598,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C218,A,2791,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C219,A,2258,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C220,A,454,1 - Very negative,General/Other,Performance,In-flight Food and Meals
+C221,A,3403,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C222,A,3544,1 - Very negative,Distributive Justice,Performance,Seat Comfort and Legroom
+C223,A,3155,1 - Very negative,Distributive Justice,Performance,Seat Comfort and Legroom
+C224,A,4424,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C225,A,4288,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C226,A,1271,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C227,A,4019,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C228,A,3637,1 - Very negative,Distributive Justice,Performance,Seat Comfort and Legroom
+C229,A,247,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C230,A,2923,1 - Very negative,Interactional Justice,Must-be,Luggage and Baggage
+C231,A,42,1 - Very negative,Procedural Justice,Performance,General/Other
+C232,A,4041,3 - Neutral/mixed,Interactional Justice,Performance,Check-in and Boarding Experience
+C233,A,447,1 - Very negative,General/Other,General/Other,General/Other
+C234,A,630,1 - Very negative,Interactional Justice,Performance,Staff and Cabin Crew
+C235,A,2440,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C236,A,2339,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C237,A,397,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C238,A,364,3 - Neutral/mixed,Distributive Justice,Must-be,Booking and Pricing Transparency
+C239,A,3845,1 - Very negative,General/Other,Performance,Seat Comfort and Legroom
+C240,A,3642,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C241,A,3577,1 - Very negative,General/Other,Performance,General/Other
+C242,A,1140,1 - Very negative,Interactional Justice,Performance,Check-in and Boarding Experience
+C243,A,4076,1 - Very negative,Interactional Justice,Performance,General/Other
+C244,A,3303,2 - Negative,General/Other,Performance,General/Other
+C245,A,1701,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C246,A,3317,2 - Negative,Procedural Justice,Performance,Flight Delays and Cancellations
+C247,A,1,2 - Negative,Distributive Justice,Performance,Check-in and Boarding Experience
+C248,A,2916,2 - Negative,Interactional Justice,Performance,Check-in and Boarding Experience
+C249,A,2519,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C250,A,3401,1 - Very negative,General/Other,Must-be,Luggage and Baggage
+C001,B,3645,2 - Negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C002,B,3363,1 - Very negative,Distributive Justice,Must-be,General/Other
+C003,B,3121,2 - Negative,Distributive Justice,Must-be,Seat Comfort and Legroom
+C004,B,2515,2 - Negative,Procedural Justice,Must-be,Luggage and Baggage
+C005,B,1467,2 - Negative,Interactional Justice,Must-be,General/Other
+C006,B,822,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C007,B,2721,2 - Negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C008,B,1929,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C009,B,710,3 - Neutral/mixed,Interactional Justice,Must-be,Staff and Cabin Crew
+C010,B,2302,2 - Negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C011,B,2869,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C012,B,2423,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C013,B,632,4 - Positive,Interactional Justice,Attractive,General/Other
+C014,B,193,2 - Negative,Distributive Justice,Must-be,Seat Comfort and Legroom
+C015,B,1361,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C016,B,1978,1 - Very negative,Procedural Justice,Must-be,Staff and Cabin Crew
+C017,B,783,4 - Positive,Distributive Justice,Attractive,General/Other
+C018,B,4426,2 - Negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C019,B,3966,2 - Negative,Procedural Justice,Must-be,Refunds and Compensation
+C020,B,1152,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C021,B,4302,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C022,B,4159,2 - Negative,Procedural Justice,Must-be,Seat Comfort and Legroom
+C023,B,2433,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C024,B,4039,1 - Very negative,Distributive Justice,Must-be,In-flight Food and Meals
+C025,B,2164,,,,
+C026,B,4031,5 - Very positive,Interactional Justice,Performance,General/Other
+C027,B,1904,1 - Very negative,Interactional Justice,Must-be,Seat Comfort and Legroom
+C028,B,1616,1 - Very negative,Distributive Justice,Must-be,General/Other
+C029,B,574,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C030,B,1900,3 - Neutral/mixed,Distributive Justice,Must-be,Refunds and Compensation
+C031,B,2974,2 - Negative,Interactional Justice,Must-be,Refunds and Compensation
+C032,B,3860,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C033,B,3856,1 - Very negative,Distributive Justice,Must-be,General/Other
+C034,B,75,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C035,B,485,2 - Negative,Interactional Justice,Performance,Refunds and Compensation
+C036,B,4320,3 - Neutral/mixed,Procedural Justice,Must-be,Check-in and Boarding Experience
+C037,B,788,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C038,B,3711,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C039,B,1567,1 - Very negative,Interactional Justice,Must-be,Refunds and Compensation
+C040,B,1631,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C041,B,185,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C042,B,706,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C043,B,2787,2 - Negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C044,B,708,1 - Very negative,Procedural Justice,Must-be,In-flight Food and Meals
+C045,B,2629,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C046,B,1168,2 - Negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C047,B,1230,4 - Positive,Interactional Justice,Performance,Staff and Cabin Crew
+C048,B,111,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C049,B,1034,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C050,B,3620,1 - Very negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C051,B,1076,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C052,B,546,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C053,B,618,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C054,B,1982,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C055,B,933,2 - Negative,Interactional Justice,Must-be,Booking and Pricing Transparency
+C056,B,182,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C057,B,911,3 - Neutral/mixed,Distributive Justice,Performance,General/Other
+C058,B,585,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C059,B,827,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C060,B,3678,2 - Negative,Interactional Justice,Must-be,Luggage and Baggage
+C061,B,755,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C062,B,378,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C063,B,1243,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C064,B,1480,1 - Very negative,Procedural Justice,Must-be,Refunds and Compensation
+C065,B,1310,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C066,B,3765,2 - Negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C067,B,1091,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C068,B,2053,1 - Very negative,Procedural Justice,Must-be,Refunds and Compensation
+C069,B,3897,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C070,B,243,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C071,B,2419,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C072,B,3934,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C073,B,638,2 - Negative,Distributive Justice,Performance,Flight Delays and Cancellations
+C074,B,3065,3 - Neutral/mixed,Distributive Justice,Performance,Flight Delays and Cancellations
+C075,B,420,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C076,B,4206,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C077,B,2194,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C078,B,998,1 - Very negative,Interactional Justice,Performance,Refunds and Compensation
+C079,B,2961,2 - Negative,Procedural Justice,Must-be,Luggage and Baggage
+C080,B,2262,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C081,B,1603,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C082,B,1527,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C083,B,393,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C084,B,3478,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C085,B,1484,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C086,B,3735,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C087,B,2760,3 - Neutral/mixed,Interactional Justice,Performance,General/Other
+C088,B,4318,2 - Negative,Procedural Justice,Must-be,Luggage and Baggage
+C089,B,2782,2 - Negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C090,B,4287,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C091,B,2208,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C092,B,3772,3 - Neutral/mixed,Interactional Justice,Performance,General/Other
+C093,B,2525,5 - Very positive,Interactional Justice,Performance,Refunds and Compensation
+C094,B,105,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C095,B,3482,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C096,B,1127,5 - Very positive,Distributive Justice,Must-be,Refunds and Compensation
+C097,B,4425,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C098,B,2626,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C099,B,3369,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C100,B,3880,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C101,B,2831,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C102,B,1489,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C103,B,1549,3 - Neutral/mixed,Interactional Justice,Performance,General/Other
+C104,B,1197,1 - Very negative,Procedural Justice,Must-be,Refunds and Compensation
+C105,B,2181,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C106,B,3673,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C107,B,1343,1 - Very negative,Interactional Justice,Must-be,Booking and Pricing Transparency
+C108,B,799,1 - Very negative,Procedural Justice,Must-be,Refunds and Compensation
+C109,B,3349,1 - Very negative,Interactional Justice,Must-be,Luggage and Baggage
+C110,B,478,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C111,B,1955,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C112,B,3775,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C113,B,1927,4 - Positive,Distributive Justice,Performance,Refunds and Compensation
+C114,B,3738,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C115,B,518,4 - Positive,Interactional Justice,Performance,Staff and Cabin Crew
+C116,B,1918,2 - Negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C117,B,2576,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C118,B,438,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C119,B,1619,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C120,B,2533,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C121,B,2802,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C122,B,821,1 - Very negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C123,B,2014,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C124,B,3357,1 - Very negative,Distributive Justice,Must-be,General/Other
+C125,B,1235,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C126,B,4301,3 - Neutral/mixed,Procedural Justice,Must-be,Booking and Pricing Transparency
+C127,B,246,2 - Negative,Procedural Justice,Must-be,Booking and Pricing Transparency
+C128,B,3255,1 - Very negative,Distributive Justice,Must-be,General/Other
+C129,B,995,2 - Negative,Procedural Justice,Must-be,General/Other
+C130,B,3674,2 - Negative,Procedural Justice,Must-be,Booking and Pricing Transparency
+C131,B,1485,4 - Positive,Distributive Justice,Performance,General/Other
+C132,B,825,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C133,B,1336,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C134,B,1508,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C135,B,3904,2 - Negative,Interactional Justice,Attractive,Staff and Cabin Crew
+C136,B,263,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C137,B,2967,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C138,B,528,3 - Neutral/mixed,Procedural Justice,Must-be,Flight Delays and Cancellations
+C139,B,3640,2 - Negative,Procedural Justice,Must-be,Booking and Pricing Transparency
+C140,B,1856,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C141,B,3275,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C142,B,2030,1 - Very negative,Procedural Justice,Must-be,Booking and Pricing Transparency
+C143,B,3575,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C144,B,847,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C145,B,2771,1 - Very negative,Interactional Justice,Must-be,Luggage and Baggage
+C146,B,4124,5 - Very positive,Distributive Justice,Attractive,General/Other
+C147,B,1535,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C148,B,541,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C149,B,711,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C150,B,1544,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C151,B,159,1 - Very negative,Distributive Justice,Attractive,General/Other
+C152,B,2151,4 - Positive,Interactional Justice,Attractive,Staff and Cabin Crew
+C153,B,3503,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C154,B,2934,1 - Very negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C155,B,715,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C156,B,2343,2 - Negative,Procedural Justice,Must-be,Refunds and Compensation
+C157,B,3325,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C158,B,1241,5 - Very positive,Interactional Justice,Must-be,Staff and Cabin Crew
+C159,B,4176,3 - Neutral/mixed,Procedural Justice,Must-be,Refunds and Compensation
+C160,B,819,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C161,B,448,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C162,B,1183,2 - Negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C163,B,1509,2 - Negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C164,B,2449,1 - Very negative,Procedural Justice,Must-be,Refunds and Compensation
+C165,B,688,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C166,B,4080,3 - Neutral/mixed,General/Other,Attractive,General/Other
+C167,B,3019,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C168,B,1792,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C169,B,4298,2 - Negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C170,B,3443,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C171,B,3122,2 - Negative,Distributive Justice,Must-be,Refunds and Compensation
+C172,B,1719,1 - Very negative,Distributive Justice,Must-be,In-flight Food and Meals
+C173,B,389,1 - Very negative,Distributive Justice,Must-be,Seat Comfort and Legroom
+C174,B,3288,1 - Very negative,Distributive Justice,Must-be,Seat Comfort and Legroom
+C175,B,1583,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C176,B,4060,1 - Very negative,Procedural Justice,Must-be,General/Other
+C177,B,4005,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C178,B,31,1 - Very negative,Interactional Justice,Must-be,Seat Comfort and Legroom
+C179,B,3956,1 - Very negative,Procedural Justice,Must-be,General/Other
+C180,B,2372,2 - Negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C181,B,390,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C182,B,2874,1 - Very negative,Procedural Justice,Must-be,Luggage and Baggage
+C183,B,4384,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C184,B,999,1 - Very negative,Distributive Justice,Must-be,Refunds and Compensation
+C185,B,107,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C186,B,4391,3 - Neutral/mixed,Procedural Justice,Must-be,Refunds and Compensation
+C187,B,1253,1 - Very negative,Procedural Justice,Must-be,In-flight Food and Meals
+C188,B,4134,1 - Very negative,Distributive Justice,Must-be,General/Other
+C189,B,67,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C190,B,901,2 - Negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C191,B,2776,1 - Very negative,Distributive Justice,Must-be,General/Other
+C192,B,3853,2 - Negative,Distributive Justice,Must-be,General/Other
+C193,B,1545,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C194,B,2214,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C195,B,4338,2 - Negative,Procedural Justice,Must-be,General/Other
+C196,B,2342,1 - Very negative,Distributive Justice,Must-be,General/Other
+C197,B,940,2 - Negative,Distributive Justice,Must-be,General/Other
+C198,B,2503,4 - Positive,Distributive Justice,Attractive,General/Other
+C199,B,2010,1 - Very negative,Distributive Justice,Must-be,General/Other
+C200,B,2006,1 - Very negative,Procedural Justice,Must-be,General/Other
+C201,B,2416,1 - Very negative,Distributive Justice,Must-be,General/Other
+C202,B,4342,2 - Negative,Procedural Justice,Must-be,General/Other
+C203,B,2966,2 - Negative,Distributive Justice,Must-be,Check-in and Boarding Experience
+C204,B,2827,1 - Very negative,Distributive Justice,Must-be,General/Other
+C205,B,816,1 - Very negative,Procedural Justice,Must-be,Seat Comfort and Legroom
+C206,B,267,3 - Neutral/mixed,Distributive Justice,Attractive,General/Other
+C207,B,2255,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C208,B,3661,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C209,B,3373,2 - Negative,Distributive Justice,Must-be,General/Other
+C210,B,3770,1 - Very negative,Distributive Justice,Must-be,Seat Comfort and Legroom
+C211,B,1236,2 - Negative,Distributive Justice,Must-be,Booking and Pricing Transparency
+C212,B,1285,1 - Very negative,Interactional Justice,Must-be,General/Other
+C213,B,1043,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C214,B,3000,1 - Very negative,Interactional Justice,Must-be,In-flight Food and Meals
+C215,B,960,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C216,B,4174,2 - Negative,Distributive Justice,Must-be,Luggage and Baggage
+C217,B,1598,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C218,B,2791,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C219,B,2258,1 - Very negative,Distributive Justice,Must-be,General/Other
+C220,B,454,1 - Very negative,Interactional Justice,Must-be,Seat Comfort and Legroom
+C221,B,3403,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C222,B,3544,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C223,B,3155,1 - Very negative,Procedural Justice,Must-be,Seat Comfort and Legroom
+C224,B,4424,3 - Neutral/mixed,Procedural Justice,Must-be,Refunds and Compensation
+C225,B,4288,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C226,B,1271,1 - Very negative,Procedural Justice,Must-be,Refunds and Compensation
+C227,B,4019,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C228,B,3637,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C229,B,247,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C230,B,2923,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
+C231,B,42,1 - Very negative,Interactional Justice,Must-be,General/Other
+C232,B,4041,4 - Positive,Interactional Justice,Must-be,Luggage and Baggage
+C233,B,447,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C234,B,630,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C235,B,2440,2 - Negative,Interactional Justice,Must-be,General/Other
+C236,B,2339,1 - Very negative,Procedural Justice,Must-be,Refunds and Compensation
+C237,B,397,1 - Very negative,Distributive Justice,Must-be,Flight Delays and Cancellations
+C238,B,364,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C239,B,3845,3 - Neutral/mixed,Distributive Justice,Must-be,Seat Comfort and Legroom
+C240,B,3642,2 - Negative,Procedural Justice,Must-be,General/Other
+C241,B,3577,1 - Very negative,Distributive Justice,Must-be,Staff and Cabin Crew
+C242,B,1140,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C243,B,4076,1 - Very negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C244,B,3303,2 - Negative,Interactional Justice,Must-be,Staff and Cabin Crew
+C245,B,1701,1 - Very negative,Interactional Justice,Must-be,Flight Delays and Cancellations
+C246,B,3317,2 - Negative,Procedural Justice,Must-be,Flight Delays and Cancellations
+C247,B,1,1 - Very negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C248,B,2916,2 - Negative,Procedural Justice,Must-be,Check-in and Boarding Experience
+C249,B,2519,1 - Very negative,Procedural Justice,Must-be,General/Other
+C250,B,3401,1 - Very negative,Distributive Justice,Must-be,Luggage and Baggage
